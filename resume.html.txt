@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Resume</title>
+    <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+    <header>
+        <nav class="navbar">
+            <h1 class="logo">My Resume</h1>
+            <ul class="nav-links">
+                <li><a href="index.html">Home</a></li>
+                <li><a href="resume.html">Resume</a></li>
+                <li><a href="about.html">About Me</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section class="hero" style="padding:40px; text-align:left; max-width:800px; margin:auto;">
+        <h2>Full Name</h2>
+        <p>Email: example@gmail.com</p>
+        <p>Phone: +91 00000 00000</p>
+        <p>Location: Your City</p>
+        <hr>
+
+        <h3>Career Objective</h3>
+        <p>To obtain a challenging position and contribute to the growth of the organization while enhancing my skills.</p>
+        <hr>
+
+        <h3>Education</h3>
+        <ul>
+            <li>Bachelor's Degree in Computer Science - College Name (Year)</li>
+            <li>Intermediate - School Name (Year)</li>
+            <li>High School - School Name (Year)</li>
+        </ul>
+        <hr>
+
+        <h3>Skills</h3>
+        <ul>
+            <li>HTML</li>
+            <li>CSS</li>
+            <li>JavaScript</li>
+            <li>Basic Java / Python (as needed)</li>
+        </ul>
+        <hr>
+
+        <h3>Projects</h3>
+        <ul>
+            <li><strong>Project Title:</strong> Short description of your project.</li>
+        </ul>
+
+    </section>
+</body>
+</html>
